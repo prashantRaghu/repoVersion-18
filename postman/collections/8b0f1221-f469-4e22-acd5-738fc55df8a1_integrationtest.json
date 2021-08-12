@@ -31,7 +31,7 @@
             "response": [
                 {
                     "id": "6edc7619-6d12-4a48-99c6-ec6c61796060",
-                    "name": "Sample response: Details about a user by ID",
+                    "name": "Sample response: Details about a user by IDs",
                     "originalRequest": {
                         "method": "GET",
                         "header": [],
